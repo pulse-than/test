@@ -1,11 +1,19 @@
 hello - bug fixed
 fixed by than
 funny thing.
+<<<<<<< HEAD
 <by client 333325555555>
 <by the server>
 here and now.
 Zotos add
 <by the server33332555555>
+=======
+<by client 666662>
+<by the server>
+here and now.
+Zotos add
+<by the server66662>
+>>>>>>> 06f83c1d82db92d84cd8da3a0340a32981ba756c
 <by client>
 this is funny.
 
