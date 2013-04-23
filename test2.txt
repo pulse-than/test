@@ -1,6 +1,1 @@
 hello - bug fixed
-<<<<<<< HEAD
-<client>
-=======
-<server>
->>>>>>> 9bc0e3c3411b7deeb88d9c250c9e54dd2618be22
