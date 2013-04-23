@@ -1,8 +1,6 @@
 hello - bug fixed
 fixed by than
 here and now.
-=======
 Zotos add
->>>>>>> Test/master
 this is funny.
 
