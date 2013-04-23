@@ -1,6 +1,7 @@
 hello - bug fixed
 fixed by than
 funny thing.
+<by client 2>
 <by the server>
 here and now.
 Zotos add
