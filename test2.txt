@@ -1,9 +1,1 @@
 hello - bug fixed
-<<<<<<< HEAD
-fixed by than 55555555<than>
-=======
-fixed by than 55555555<server>
->>>>>>> 86d5971c4f00fadb2d5e01b6984ad2b8a4798edd
-funny thing.
-this is funny.
-
