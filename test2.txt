@@ -1,7 +1,5 @@
 hello - bug fixed
-<<<<<<< HEAD
 fixed by than
 here and now.
 =======
 Zotos add
->>>>>>> Test/master
