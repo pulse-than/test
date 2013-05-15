@@ -1,13 +1,6 @@
 <work to do>
 hello - bug fixed
-client>>>>>>>>>>>
-<<<<<<<<<<<<more is here...>>>>>>>>>
-server <<<<<<<<<<<<<
-<DIMITRIS>
-THAN
-<LAST TEST>
-<FIRST>
-this is work to do
+do its
 .
 source tree.
 working.
