@@ -11,4 +11,8 @@ this is work to do
 .
 source tree.
 working.
+<<<<<<< HEAD
 Dimitris
+=======
+THANASIS.
+>>>>>>> waiting for conflict.
