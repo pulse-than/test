@@ -6,5 +6,9 @@ source tree.
 working.
 Dimitris
 THANASIS.
+<<<<<<< HEAD
 
 [conflict 1]
+=======
+let's see it working.
+>>>>>>> than1
